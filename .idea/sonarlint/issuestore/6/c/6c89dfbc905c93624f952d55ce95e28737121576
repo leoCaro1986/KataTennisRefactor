@@ -1,0 +1,24 @@
+
+x	java:S116"WRename this field "ScorePlayer1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÂÁÿÿÿÿÿ8þæÙªÁ/
+s	java:S116"WRename this field "ScorePlayer2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À½•¬8€çÙªÁ/
+q	java:S116"VRename this field "PlayerName1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ðß÷d8ˆ¡Ø«Á/
+w	java:S116	"VRename this field "PlayerName2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Åúºþÿÿÿÿ8çÙªÁ/
+V
+java:S1854"9Remove this useless assignment to local variable "point".(¦ŠíÄ8’çÙªÁ/
+G
+java:S1481"*Remove this unused "point" local variable.(¦ŠíÄ8³Ëø«Á/
+~
+java:S1221""aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(Ì»òŒ8¡Öï«Á/
+K
+java:S1068"/Remove this unused "PlayerName1" private field.(Ðß÷d8š¡Ø«Á/
+Q
+java:S1068	"/Remove this unused "PlayerName2" private field.(‰Åúºþÿÿÿÿ8ÉçÙªÁ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÐÛ8×çÙªÁ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÐÛ8æçÙªÁ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ½«Í8õçÙªÁ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÍ—Îýÿÿÿÿ8…èÙªÁ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®é°8…èÙªÁ/
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»—±8‡èÙªÁ/
+m	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø±‘Ý8‡èÙªÁ/
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(¦ŠíÄ8‰èÙªÁ/
